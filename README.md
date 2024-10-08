@@ -2,7 +2,7 @@
 
 A single-page React application that calculates investment returns based on user inputs. This project demonstrates basic React concepts, including components and utility functions.
 <p align="center">
-  <img src="assets/ui.png" alt="Screenshot of the Investment Calculator">
+  <img src="src/assets/ui.png" alt="Screenshot of the Investment Calculator">
 </p>
 
 ## Features
